@@ -2,9 +2,9 @@
 
 <img src="/PowerWire 2023.png" align="right">
 
-## 💻 For all your independent IBM Power news - IBM i AIX & Linux
+## 💻 Independent IBM Power news
 
-  <h2>FormaServe &amp; NC Communications Join Forces to Publish PowerWire, the IBM Power Newsletter</h2>
+  <h3>FormaServe &amp; NC Communications Join Forces to Publish PowerWire</h2>
 
   <p>FormaServe, a leading provider of IBM i training and consultancy services, and NC Communications, a specialist in
     IT events and media production, have announced a strategic partnership to publish PowerWire, the IBM Power
@@ -34,17 +34,13 @@
     <footer>-Nigel Clapham, <cite>Director of NC Communications.</cite></footer>
   </blockquote>
 
-
-
-
 ## 🏢 Location
 
 - We are located in Manchester & London, England UK
 
 ## 👍 Contributing
 
-We are always looking for people to write articles for our newsletter.
-If you want to advertise in our newsletter and website, get it contact, it will be worthwhile.
+We are always looking for people to write articles for our newsletter.  If you want to advertise in our newsletter and website, get it contact, it will be worthwhile.
 
 ## 📝 License
 
