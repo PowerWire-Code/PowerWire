@@ -4,7 +4,7 @@
 
 ## 💻 Independent IBM Power news
 
-### FormaServe &amp; NC Communications Join Forces to Publish PowerWire</h2>
+### FormaServe &amp; NC Communications Join Forces to Publish PowerWire
 
   <p>FormaServe, a leading provider of IBM i training and consultancy services, and NC Communications, a specialist in
     IT events and media production, have announced a strategic partnership to publish PowerWire, the IBM Power
