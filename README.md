@@ -20,8 +20,14 @@ knowledge of IBM i and its applications, while NC Communications will bring its 
 distribution.
 
 > We are delighted to partner with NC Communications to publish PowerWire, the IBM Power newsletter. We believe that this collaboration will benefit the IBM Power community by providing them with relevant and engaging content that helps them get the most out of their systems.
+>
+>
 >> Andy Youens - Director of FormaServe.
+
+
 > NC Communications is excited to join forces with FormaServe to publish PowerWire, the IBM Power newsletter. We have a long history of producing successful events and media products, and we look forward to applying our expertise to PowerWire. We are confident that this partnership will create a valuable source of information and inspiration for the IBM Power audience.
+>
+> 
 >> Nigel Clapham - Director of NC Communications.
 
 ## 🏢 Location
