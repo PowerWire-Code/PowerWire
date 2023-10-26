@@ -2,22 +2,22 @@
 
 <img src="/Logo2023.png" align="right">
 
-## 💻 Independent IBM Power news
+## 💻 Independent IBM Power News
 
 ### FormaServe &amp; NC Communications Join Forces to Publish PowerWire
 
-  <p>FormaServe, a leading provider of IBM i training and consultancy services, and NC Communications, a specialist in
-    IT events and media production, have announced a strategic partnership to publish PowerWire, the IBM Power
-    newsletter.</p>
+ FormaServe, a leading provider of IBM i training and consultancy services, and NC Communications, a specialist in
+ IT events and media production, have announced a strategic partnership to publish PowerWire, the IBM Power
+ newsletter.
 
-  <p>PowerWire is a monthly online publication that covers the latest news, trends, and insights on IBM Power Systems,
-    including IBM i, AIX, and Linux. PowerWire aims to provide valuable information and resources for IBM Power users,
-    developers, administrators, and enthusiasts across the globe.</p>
+  PowerWire is a monthly online publication that covers the latest news, trends, and insights on IBM Power Systems,
+  including IBM i, AIX, and Linux. PowerWire aims to provide valuable information and resources for IBM Power users,
+  developers, administrators, and enthusiasts across the globe.
 
-  <p>The partnership between FormaServe and NC Communications will leverage the expertise and experience of both
+  The partnership between FormaServe and NC Communications will leverage the expertise and experience of both
     companies to create high-quality content and deliver it to a wider audience. FormaServe will contribute its deep
     knowledge of IBM i and its applications, while NC Communications will bring its skills in media production and
-    distribution.</p>
+    distribution.
 
   <blockquote cite="https://www.formaserve.co.uk">
     <p>“We are delighted to partner with NC Communications to publish PowerWire, the IBM Power newsletter. We believe
