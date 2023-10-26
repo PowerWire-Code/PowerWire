@@ -1,3 +1,4 @@
-theme: jekyll-theme-architect
+# theme: jekyll-theme-architect
 title: [PowerWire]
-description: [For your independent IBM Power News]
+description: [Independent IBM Power News]
+remote_theme: pages-themes/cayman@v0.2.0
