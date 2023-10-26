@@ -1,6 +1,6 @@
-# PowerWire
-
 <img src="Logo2023.png" align="right">
+
+# PowerWire
 
 ## 💻 Independent IBM Power News
 
@@ -27,7 +27,7 @@ distribution.
 
 > NC Communications is excited to join forces with FormaServe to publish PowerWire, the IBM Power newsletter. We have a long history of producing successful events and media products, and we look forward to applying our expertise to PowerWire. We are confident that this partnership will create a valuable source of information and inspiration for the IBM Power audience.
 >
-> 
+>
 >> Nigel Clapham - Director of NC Communications.
 
 ## 🏢 Location
