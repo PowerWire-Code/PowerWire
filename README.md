@@ -10,6 +10,10 @@
 [![Twitter Follow]](https://img.shields.io/twitter/follow/formaserve?style=social)
 [![Twitter Follow]](https://img.shields.io/twitter/follow/powerwire?style=social)
 </p>
+[![][black-shield]][black]
+
+[black]: http://github.com/psf/black
+[black-shield]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
 
 ### FormaServe &amp; NC Communications Join Forces to Publish PowerWire
 
