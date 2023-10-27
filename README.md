@@ -4,17 +4,17 @@
 
 ## 💻 Independent IBM Power News
 
-<p align="center">
+<!-- <p align="center">
 [![YouTube Channel Subscribers]](https://img.shields.io/youtube/channel/subscribers/UCQtPrEz09kfRhrKmx9xyGWQ?style=social)
 [![YouTube Channel Views]](https://img.shields.io/youtube/channel/views/UCQtPrEz09kfRhrKmx9xyGWQ?style=social)
 [![Twitter Follow]](https://img.shields.io/twitter/follow/formaserve?style=social)
 [![Twitter Follow]](https://img.shields.io/twitter/follow/powerwire?style=social)
-</p>
+</p> -->
 [![][black-shield]][black]
 
 [black]: http://github.com/psf/black
 [black-shield]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
-
+[![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=flat)](https://stackoverflow.com/users/12299287/cryptocode)
 ### FormaServe &amp; NC Communications Join Forces to Publish PowerWire
 
  FormaServe, a leading provider of IBM i training and consultancy services, and NC Communications, a specialist in
