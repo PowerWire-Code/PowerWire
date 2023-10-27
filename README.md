@@ -1,14 +1,14 @@
-<img src="Logo2023.png" align="right">
-
 # PowerWire
+
+<img src="Logo2023.png" align="center">
 
 ## 💻 Independent IBM Power News
 
 <p align="center">
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQtPrEz09kfRhrKmx9xyGWQ?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQtPrEz09kfRhrKmx9xyGWQ?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/formaserve?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/powerwire?style=social)
+[![YouTube Channel Subscribers]](https://img.shields.io/youtube/channel/subscribers/UCQtPrEz09kfRhrKmx9xyGWQ?style=social)
+[![YouTube Channel Views]](https://img.shields.io/youtube/channel/views/UCQtPrEz09kfRhrKmx9xyGWQ?style=social)
+[![Twitter Follow]](https://img.shields.io/twitter/follow/formaserve?style=social)
+[![Twitter Follow]](https://img.shields.io/twitter/follow/powerwire?style=social)
 </p>
 
 ### FormaServe &amp; NC Communications Join Forces to Publish PowerWire
@@ -27,16 +27,11 @@ knowledge of IBM i and its applications, while NC Communications will bring its 
 distribution.
 
 > We are delighted to partner with NC Communications to publish PowerWire, the IBM Power newsletter. We believe that this collaboration will benefit the IBM Power community by providing them with relevant and engaging content that helps them get the most out of their systems.
->
->
->> Andy Youens - Director of FormaServe.
-
-
+>> **Andy Youens - Director of FormaServe.**
+>>
 > NC Communications is excited to join forces with FormaServe to publish PowerWire, the IBM Power newsletter. We have a long history of producing successful events and media products, and we look forward to applying our expertise to PowerWire. We are confident that this partnership will create a valuable source of information and inspiration for the IBM Power audience.
->
->
->> Nigel Clapham - Director of NC Communications.
-
+>> **Nigel Clapham - Director of NC Communications.**
+>>
 ## 🏢 Location
 
 We are located in Manchester & London, England UK
